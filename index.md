@@ -22,6 +22,11 @@ This bar chart shows the number of students in each major, highlighting the dive
 <!-- 
 <img src="ex09-website/![Bar Graph](image.png)>
 ![alt text](image.png) -->
+![alt text](image.png)
+![alt text](image.png)
+
+<img src="static/imgs/graph3.png" alt="third" width="500">
+<img src="static/imgs/graph2.png" alt="second" width="500">
 <img src="static/imgs/graph1.png" alt="first" width="500">
 
 
