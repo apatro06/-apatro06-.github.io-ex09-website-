@@ -21,6 +21,8 @@ The visualizations helped reveal trends in how different groups of students perc
 This bar chart shows the number of students in each major, highlighting the diversity of academic backgrounds in the course.
 
 <img src="ex09-website/![Bar Graph](image.png)>
+![alt text](image.png)
+
 
 This scatterplot compares how interesting students found the course versus how valuable they found it, grouped by major. It helps show whether students who find the course more interesting also see it as more valuable.
 
