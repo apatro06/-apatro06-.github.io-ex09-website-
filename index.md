@@ -8,6 +8,22 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## This is a small header
+## Summary Analysis
 
-This is basic paragraph text. .
+To analyze this idea, we examined survey data from COMP110 students to understand how students from different majors experience the course. We used functions like read_csv_rows, columnar, head, select, and count to organize and explore the data. We focused specifically on the columns for major, interesting, valuable, understanding, and would recommend.
+
+First, we looked at the distribution of majors to confirm that the course includes a wide range of students beyond computer science. Then, we created visualizations to explore how students from different majors rated the course's interest and value. We also analyzed how these ratings relate to each other to better understand patterns in student engagement.
+
+The visualizations helped reveal trends in how different groups of students perceive the course material and whether engagement varies depending on academic background.
+
+## Visualizations 
+
+This bar chart shows the number of students in each major, highlighting the diversity of academic backgrounds in the course.
+
+<img src="ex09-website/![Bar Graph](image.png)>
+
+This scatterplot compares how interesting students found the course versus how valuable they found it, grouped by major. It helps show whether students who find the course more interesting also see it as more valuable.
+
+
+
+This histogram shows the distribution of how interesting students found the course, broken down by major. It helps identify whether some majors find the course less engaging than others.
