@@ -6,7 +6,7 @@ layout: default
 # EX09: Data Analysis for Continuous Improvement
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Summary Analysis
 
@@ -19,9 +19,10 @@ The visualizations helped reveal trends in how different groups of students perc
 ## Visualizations 
 
 This bar chart shows the number of students in each major, highlighting the diversity of academic backgrounds in the course.
-
+<!-- 
 <img src="ex09-website/![Bar Graph](image.png)>
-![alt text](image.png)
+![alt text](image.png) -->
+<img src="static/imgs/graph1.png" alt="first" width="500">
 
 
 This scatterplot compares how interesting students found the course versus how valuable they found it, grouped by major. It helps show whether students who find the course more interesting also see it as more valuable.
